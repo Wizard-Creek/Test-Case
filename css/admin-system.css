@@ -1,0 +1,33 @@
+﻿html {font-family:Arial, Verdana, Helvetica, sans-serif;}
+
+body {background-color: #FFFFFF; color:black;}
+
+h1 {font-size: 150%;}
+h2 {font-size: 120%;}
+h3 {font-size: 115%;}
+h4 {font-size: 110%;}
+
+dt {text-align: left;
+	font-weight: bold;
+	margin-top: 12px;}
+
+dd {text-align: left;
+	margin: 0; margin-left: 20px;}
+
+img {border: none;}
+	
+a:link 	  {color: #0000EE; text-decoration: none;}
+a:visited {color: #0000EE; text-decoration: none;}        
+a:hover   {color: black; text-decoration: underline;}
+a:active  {color: black; text-decoration: none;}
+
+.pageHeader {text-align:center;}
+.pageHeader h1 {font-size:150%;}
+.pageHeader a:link    {font-size:150%;text-decoration:none;color:maroon;}
+.pageHeader a:visited {font-size:150%;text-decoration:none;}
+.pageHeader a:hover   {font-size:150%;text-decoration:none;}
+.pageHeader a:active  {font-size:150%;text-decoration:none;}
+
+.pageFooter {text-align:center;}
+
+.bodyContent {width:50%;margin:50px auto 0 auto;min-height:400px;}
